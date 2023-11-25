@@ -1,0 +1,22 @@
+[global]
+# disableWatchdogWarning = true
+[server]
+runOnSave =true
+[browser]
+gatherUsageStats = true
+
+[deprecation]
+# showfileUploaderEncoding = false
+# showPyplotGlobalUse =false
+[logger]
+# Default: "%(asctime)s %(message)s"
+# messageFormat = "%(asctime)s %(message)s"
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#042940"
+# Background color for the main content area.
+backgroundColor = "#ecebe9"
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#F2EBBF"
+# Color used for almost all text.
+textColor = "#042940"
