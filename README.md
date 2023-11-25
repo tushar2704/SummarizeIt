@@ -69,3 +69,4 @@ SummarizeIt leverages cutting-edge natural language processing techniques to del
 
 Happy summarizing with SummarizeIt!
 ```
+
