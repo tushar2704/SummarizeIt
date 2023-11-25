@@ -1,0 +1,16 @@
+streamlit
+pathlib
+pybase64
+requests
+streamlit-option-menu
+streamlit_antd_components
+altair
+plotly
+bokeh==2.4.3
+pydeck
+graphviz
+scipy
+datetime
+pandas
+numpy
+-e.
