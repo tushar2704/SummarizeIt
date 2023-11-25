@@ -24,6 +24,7 @@ SummarizeIt is a powerful yet user-friendly Streamlit application designed to qu
 
 ### Prerequisites
 
+
 Ensure you have Python and pip installed. You can install the required dependencies using:
 
 ```bash
