@@ -5,6 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ## Deployment  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://summarizeit.streamlit.app/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 SummarizeIt is a powerful yet user-friendly Streamlit application designed to quickly generate concise summaries of text content. Whether you're dealing with lengthy articles, research papers, or any other form of textual data, SummarizeIt simplifies the process, providing a convenient way to distill information.
 
