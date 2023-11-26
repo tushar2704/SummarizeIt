@@ -11,27 +11,6 @@ SummarizeIt is a powerful yet user-friendly Streamlit application designed to qu
 
 - **Flexible Summarization Length:** Adjust the length of the summary to meet your needs.(upcoming)
 
-## Getting Started
-
-### Prerequisites
-
-
-Ensure you have Python and pip installed. You can install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Application
-
-Launch SummarizeIt by running the following command:
-
-```bash
-streamlit run app.py
-```
-
-Visit the provided local URL in your web browser.
-
 ## Usage
 
 1. Enter a web address or paste text into the respective input field.
@@ -46,10 +25,6 @@ Visit the provided local URL in your web browser.
 
 Feel free to customize SummarizeIt to fit your specific requirements. You can modify the interface, add new features, or integrate additional natural language processing models.
 
-## Contributing
-
-Contributions are welcome! If you encounter issues or have ideas for improvements, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
@@ -59,5 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 SummarizeIt leverages cutting-edge natural language processing techniques to deliver accurate and meaningful summaries.
 
 Happy summarizing with SummarizeIt!
-```
+
+
 
