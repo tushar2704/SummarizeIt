@@ -1,4 +1,5 @@
 # SummarizeIt
+
 ## Deployment  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://summarizeit.streamlit.app/)
 
 SummarizeIt is a powerful yet user-friendly Streamlit application designed to quickly generate concise summaries of text content. Whether you're dealing with lengthy articles, research papers, or any other form of textual data, SummarizeIt simplifies the process, providing a convenient way to distill information.
@@ -47,6 +48,3 @@ Happy summarizing with SummarizeIt!
 - <b>[Hashnode](https://hashnode.com/@TAGG)</b> 
 - <b>[NovyPro](https://www.novypro.com/profile_projects/tusharagg)</b> 
 - <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-
-
