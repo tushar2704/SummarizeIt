@@ -35,5 +35,11 @@ SummarizeIt leverages cutting-edge natural language processing techniques to del
 
 Happy summarizing with SummarizeIt!
 
+## Author  
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+
 
 
