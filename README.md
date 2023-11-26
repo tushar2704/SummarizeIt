@@ -3,22 +3,13 @@
 
 SummarizeIt is a powerful yet user-friendly Streamlit application designed to quickly generate concise summaries of text content. Whether you're dealing with lengthy articles, research papers, or any other form of textual data, SummarizeIt simplifies the process, providing a convenient way to distill information.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Web Content Summarization:** Extract information directly from a web address (URL).
   
 - **Text Pasting:** Paste your own text for summarization.
 
-- **Flexible Summarization Length:** Adjust the length of the summary to meet your needs.
+- **Flexible Summarization Length:** Adjust the length of the summary to meet your needs.(upcoming)
 
 ## Getting Started
 
