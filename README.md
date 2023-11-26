@@ -1,12 +1,13 @@
 # SummarizeIt
 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-## Deployment  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://summarizeit.streamlit.app/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Deployment  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://summarizeit.streamlit.app/)
 SummarizeIt is a powerful yet user-friendly Streamlit application designed to quickly generate concise summaries of text content. Whether you're dealing with lengthy articles, research papers, or any other form of textual data, SummarizeIt simplifies the process, providing a convenient way to distill information.
 
 ## Features
